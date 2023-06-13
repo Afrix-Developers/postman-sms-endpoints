@@ -44,10 +44,21 @@ As per the fifth slide, collection has been imported and you will see all types 
 As per the sixth slide, click on Environment. Click on the Globals listed Environment. And on the right side, as marked in red box, edit current values such as PASSWORD, PHONE_NUMBER, GROUP_NAME etc.,
 
 Once the above steps are done, you can start using our collection and start testing our API.
+Slide 1
 ![Capture1](https://github.com/Afrix-Developers/postman-sms-endpoints/assets/33389345/0102943e-2b4c-4a78-a17a-9cc24cca4af0)
+
+Slide 2
 ![Capture2](https://github.com/Afrix-Developers/postman-sms-endpoints/assets/33389345/2fdd312a-ace7-44ec-a213-d672637d20b1)
+
+Slide3
 ![Capture3](https://github.com/Afrix-Developers/postman-sms-endpoints/assets/33389345/4bf61147-32cd-49bc-8dfc-9fc0a7665f59)
+
+Slide4
 ![Capture4](https://github.com/Afrix-Developers/postman-sms-endpoints/assets/33389345/cf5403c3-0000-4f5d-8237-d05525647646)
+
+Slide 5
 ![Capture5](https://github.com/Afrix-Developers/postman-sms-endpoints/assets/33389345/df03804b-c1ac-4e4c-8498-b71dcf4b564f)
+
+Slide 6
 ![Capture6](https://github.com/Afrix-Developers/postman-sms-endpoints/assets/33389345/2f84c44c-6397-4f43-9773-1fa8f126c942)
 
